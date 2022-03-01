@@ -39,8 +39,23 @@ border: 0px;
     color: white;
     font-family: 'Poppins', sans-serif;
 }
-
-
+.button{
+    color: blue;
+    border: none;
+    background: none;
+}
+.img3{
+    width: 20%;
+}
+.img2{
+    width: 20%;
+}
+.img1{
+    width: 20%;
+}
+.card-title{
+    font-weight: bold;
+}
 
 
 
